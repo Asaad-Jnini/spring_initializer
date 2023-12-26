@@ -1,0 +1,4 @@
+type Mutation{
+    saveComputer(Computer: ComputerDTOInput):ComputerDTO
+    deleteComputer(id: ID):ComputerDTO
+}

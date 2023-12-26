@@ -1,0 +1,6 @@
+type ComputerDTO{
+    Proce: String
+    ram: String
+    hardDrive: String
+    price: Float
+}
